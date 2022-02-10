@@ -1,0 +1,18 @@
+{
+    "name": "nrngajurel/sl",
+    "autoload": {
+        "psr-4": {
+            "Nrngajurel\\Sl\\": "src/"
+        },
+        "files": [
+            "./src/Helper/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Narayan Gajurel",
+            "email": "nrngajurel@gmail.com"
+        }
+    ],
+    "require": {}
+}
